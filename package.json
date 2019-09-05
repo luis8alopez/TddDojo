@@ -1,0 +1,16 @@
+{
+  "name": "tdddojo",
+  "version": "1.0.0",
+  "description": "Dojo implementing TDD for desarrollo de aplicaciones empresariales",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Luis Ochoa",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "express": "^4.17.1"
+  }
+}
